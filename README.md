@@ -1,4 +1,5 @@
 # 5asni5adma
+##### In this project, we collaborated to develop a web application that connects Algerian artisans with their customers. The platform allows artisans to create a "worker" account and post various ads detailing their offered services. Clients can browse through all available services, filter ads by province (wilaya), and search by service type...
 
 ### Cloning the repository
 
